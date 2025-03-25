@@ -1,5 +1,11 @@
-# run with: flask --app hello_flask --debug run 
+'''
+    Name: Hugo Ruiz-Mireles
+    Course: CST-205 SP25
+    Date: 03/24/25
 
+    Repo for this assignment:
+        https://github.com/Hugo-RM/cst-205-lab-15.git
+'''
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap5
 
